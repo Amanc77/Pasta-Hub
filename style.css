@@ -24,6 +24,12 @@ header nav{
 }
 
 
+.wrapper{
+  overflow-x: hidden;
+}
+
+
+
    
 .menu {
     font-weight: bold;
